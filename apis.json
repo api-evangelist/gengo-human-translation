@@ -1,0 +1,79 @@
+{
+    "name": "Gengo Human Translation",
+    "description": "People-powered translation at scale. Gengo provides fast, affordable and quality translations by native speakers located worldwide.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1564-gengo-human-translation.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "human",
+        "translations",
+        "volume"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gengo-human-translation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gengo Human Translation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1564-gengo-human-translation.jpg",
+            "humanURL": "http:\/\/gengo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gengo-human-translation-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gengo-human-translation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.sandbox.gengo.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.gengo.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gengo"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/gengo.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@gengo.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/gengo.com\/#pricing"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/gengo.com\/#pricing"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/gengo.com\/#pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gengoit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gengo.com"
+        }
+    ]
+}
